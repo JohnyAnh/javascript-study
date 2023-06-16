@@ -1,4 +1,5 @@
 console.log("Hello Control Flow Basics");
+// Quy tắc code khai báo biết bằng let 
 
 let arr = ['Mu', 'MCT', 'Liber', 'Chelsea'];
 for (let i = 0; i < arr.length; i++) {
@@ -13,4 +14,6 @@ for (let i = 0; i < 10; i++) {
 }
 
 console.log('Check value i: ' ,i);
-// Quy tắc code khai báo biết bằng let 
+//Toán tử 
+// ++i là cộng thêm 1 giá trị rồi mới thực hiện i
+// i++ là thực hiện i rồi  cộng thêm 1 giá trị rồi 
