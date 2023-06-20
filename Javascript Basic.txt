@@ -25,22 +25,12 @@ Chương 3: Control Flow Basics
 4. Switch statements
 5. Variables & Block Scope
 
-
 Chương 4: Functions & method
 1. Declare function
 2. Returning values
 3. Arrow function
 4. Functions vs method
 5. Callback, setTimeout, setInterval
-
-
-
-
-
-
-
-
-
 
 Chương 5: Array methods
 1. Filter/Find
