@@ -33,15 +33,6 @@ Chương 4: Functions & method
 4. Functions vs method
 5. Callback, setTimeout, setInterval
 
-
-
-
-
-
-
-
-
-
 Chương 5: Array methods
 1. Filter/Find
 2.Map
